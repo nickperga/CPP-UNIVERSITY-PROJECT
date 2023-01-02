@@ -1,1 +1,1 @@
-# CPP-UNIVERSITY-PROJECT
+In this project we had to create a Netflix interface in which we used filters like date of production or Movie Type to change the movie shown as active. We had to use only a custom graphics library created by our university which can be found here: https://github.com/cgaueb/sgg.
